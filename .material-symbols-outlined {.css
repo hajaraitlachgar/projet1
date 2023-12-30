@@ -1,0 +1,504 @@
+
+        .a img{
+            width: 139px;
+            margin-left:63px ;
+            margin-top: 14px;
+        }
+        
+        .a{
+          position: fixed;
+          top:0;
+          width: 100%;
+          height: 90px;
+          z-index:100 ;
+          margin: -8px;
+          background-color: white;
+          box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.559);
+        }
+         .a1{
+          position: absolute;
+          width: 70%;
+          margin-left: 550px;
+          bottom: 20px;
+         }
+        .a1 span{
+          display: inline-block;
+          width: 200px;
+          margin-left: 1%;
+      
+        }
+        .a1 span a{
+          text-decoration: none;
+          font-size: 18px;
+          font-family: Arial, Helvetica, sans-serif;
+          color: rgb(44, 57, 71) ;
+          
+        }
+        
+        .a1 span a:hover{
+          color: #259fbbf8;
+        }
+        .list{
+          display: none;
+          position: absolute;
+          background-color:#259fbbf8;
+          width: 80px;
+          left: 83px;
+          box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          z-index: 1;
+        }
+        .list a {
+          color: black;
+          padding: 12px 16px;
+          display: block;
+          text-align: left;
+          height: 10px;
+          list-style-type: none;
+          border: 1.5px solid rgb(49, 109, 161);
+      }
+      
+      .list a:hover {
+          background-color: #ddd;
+      }
+      
+      .filier:hover .list{
+          display: block;
+          margin-left: 395px;
+      }
+      
+        .b{
+            position: absolute;
+            background-image: url(../Pedir\ Equivalência\ ou\ Validar\ Diploma\ em\ Portugal_.jpeg);
+            background-color: rgb(49, 109, 161);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position:center -100px;
+            width: 100%;
+            height: 405px;
+            margin-top: 65px;
+            margin:-8px;
+            top:75px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.559); 
+            text-align: center;
+            color: whitesmoke;
+            font-size: 45px;
+            font-weight: 200;
+          font-family: 'Times New Roman', Times, serif;
+        }
+        .b1{
+          
+          margin-top: 80px;
+          text-transform: uppercase;
+        }
+           .c{
+            position:absolute;
+            width: 100%;
+            height: 330px;
+            top: 445px;
+            margin:-8px ;
+            background-color: rgb(49, 109, 161);
+            
+        
+        } 
+        .c .c1{
+          position: absolute;
+          background-color: #259fbbf8;
+          width: 500px;
+          height: 250px;
+          margin-left: 200px;
+          margin-top:44px ;
+          box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.559);
+          border-radius: 2px; 
+          
+        }
+        .c .c2{
+          position: absolute;
+          margin-left: 800px;
+          margin-top: 26px;
+        }
+
+        .c span{
+          display: inline-block;
+         
+        }
+
+        .c11{
+         width: 450px;
+         height: 1px;
+         background-color: whitesmoke;
+         text-align: center;
+         margin-top: 185px;
+         border: 0.25px solid whitesmoke;
+        }
+        .c p{
+          color:whitesmoke;
+          font-family:Arial, Helvetica, sans-serif;
+          font-size: 20px;
+          text-indent: 10px;
+          letter-spacing: 1px;
+          line-height: 22px;
+          text-align: left;
+          padding: 10px;
+          font-weight: 300;
+        }
+        .d{
+          position: absolute;
+          background-color: whitesmoke;
+          width: 100%;
+          height: 400px;
+          margin: -8px;
+          top:775px
+        }
+        .d h1{
+          text-align: center;
+          color: rgb(49, 109, 161);
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .d span{
+          width: calc(84% / 3);
+          margin-left: 4%;
+          height: 280px;
+          display: inline-block;
+          background-color: hwb(0 93% 7%);
+          border-radius: 2px;
+          box-shadow: 0px 1px 1.8px rgba(0, 0, 0, 0.559);
+        }
+        .d span img{
+          position: absolute;
+          width: 200px;
+          margin-left: 112px;
+          margin-top: 18px;
+        }
+        
+        .d span h2{
+          position: absolute;
+          text-align: center;
+          margin-top: 216px;
+          margin-left: 67px;
+         color:  rgb(44, 57, 71);
+        }
+        .d span:hover{
+          background-color:#259fbbf8 ;
+        }
+        .z1{
+          background-color:  rgb(49, 109, 161);
+          width: 100%;
+          height: 300px;
+          position: absolute;
+          margin: -8px;
+          top:1170px;
+          color: whitesmoke;
+          font-size: 20px;
+          text-align: center;
+        }
+       
+        .z1 h1{
+          text-align: center;
+          color: whitesmoke;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .z1 p a{
+          text-decoration: none;
+          color: whitesmoke;
+        }
+        .z1 img{
+          width: 30px;
+        }
+
+        /* autre page */
+      
+        .page{
+          background-color:#259fbbf8  ;
+        }
+        .e,.f,.g,.h,.i{
+          background-color: whitesmoke;
+          width: 80%;
+          height: 750px;
+          position: absolute;
+          margin-bottom: -8px;
+          margin-left: 10%;
+          top:75px;
+        }
+        .e{
+          height: 968px;
+        }
+        .e  div {
+          position: absolute;
+          top: 80px;
+          width: 70%;
+          margin-left: 15%;
+        
+        }
+        .e div p{
+          font-size: 20px;
+          font-weight: 400;
+          font-family: Arial, Helvetica, sans-serif;
+          color: rgb(44, 57, 71) ;
+          text-indent: 9px;
+          text-align: justify;
+          line-height: 25px;
+        }
+        .e h1{
+          color:rgb(44, 57, 71) ;
+          text-align: center;
+        }
+
+        .z2{
+          background-color:  rgb(49, 109, 161);
+          width: 100%;
+          height: 300px;
+          position: absolute;
+          margin: -8px;
+          top:1050px;
+          color: whitesmoke;
+          font-size: 20px;
+          text-align: center;
+        }
+       .z2 h1{
+          text-align: center;
+          color: whitesmoke;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .z2 p a{
+          text-decoration: none;
+          color: whitesmoke;
+        }
+        .z2 img{
+          width: 30px;
+        }
+        /* autre page */
+        .f{
+          height: 1410px;
+        }
+        .f  div {
+          position: absolute;
+          top: 80px;
+          width: 70%;
+          margin-left: 15%;
+        
+        }
+        .f div p,li{
+          font-size: 20px;
+          font-weight: 400;
+          font-family: Arial, Helvetica, sans-serif;
+          color: rgb(44, 57, 71) ;
+          text-indent: 9px;
+          text-align: justify;
+          line-height: 25px;
+        }
+        .f h1{
+          color:rgb(44, 57, 71) ;
+          text-align: center;
+        }
+        .f h2{
+          color:rgb(27, 107, 192) ;
+          font-size: 23;
+        }
+        .z3{
+          background-color:  rgb(49, 109, 161);
+          width: 100%;
+          height: 300px;
+          position: absolute;
+          margin: -8px;
+          top:1485px;
+          color: whitesmoke;
+          font-size: 20px;
+          text-align: center;
+        }
+       
+        .z3 h1{
+          text-align: center;
+          color: whitesmoke;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .z3 p a{
+          text-decoration: none;
+          color: whitesmoke;
+        }
+        .z3 img{
+          width: 30px;
+        }
+        /* autre page */
+        .g{
+          height: 1170px;
+        }
+        .g  div {
+          position: absolute;
+          top: 80px;
+          width: 70%;
+          margin-left: 15%;
+        
+        }
+        .g div p,li{
+          font-size: 20px;
+          font-weight: 400;
+          font-family: Arial, Helvetica, sans-serif;
+          color: rgb(44, 57, 71) ;
+          text-indent: 9px;
+          text-align: justify;
+          line-height: 25px;
+        }
+        .g h1{
+          color:rgb(44, 57, 71) ;
+          text-align: center;
+        }
+        .g h2{
+          color:rgb(27, 107, 192) ;
+          font-size: 23;
+        }
+        .z4{
+          background-color:  rgb(49, 109, 161);
+          width: 100%;
+          height: 300px;
+          position: absolute;
+          margin: -8px;
+          top:1245px;
+          color: whitesmoke;
+          font-size: 20px;
+          text-align: center;
+        }
+       
+        .z4 h1{
+          text-align: center;
+          color: whitesmoke;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .z4 p a{
+          text-decoration: none;
+          color: whitesmoke;
+        }
+        .z4 img{
+          width: 30px;
+        }
+        /* autre page */
+        .h{
+          height: 430px;
+        }
+        .h div {
+          position: absolute;
+          top: 80px;
+          width: 70%;
+          margin-left: 15%;
+        
+        }
+        
+        .h h1{
+          color:rgb(44, 57, 71) ;
+          text-align: center;
+        }
+        .h div p{
+          font-size: 20px;
+          font-weight: 400;
+          font-family: Arial, Helvetica, sans-serif;
+          color: rgb(44, 57, 71) ;
+          text-indent: 9px;
+          text-align: justify;
+          line-height: 25px;
+        }
+        
+        .z5{
+          background-color:  rgb(49, 109, 161);
+          width: 100%;
+          height: 300px;
+          position: absolute;
+          margin: -8px;
+          top: 510px;
+          color: whitesmoke;
+          font-size: 20px;
+          text-align: center;
+        }
+       
+        .z5 h1{
+          text-align: center;
+          color: whitesmoke;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .z5 p a{
+          text-decoration: none;
+          color: whitesmoke;
+        }
+        .z5 img{
+          width: 30px;
+        }
+
+        /* autre page */
+        .i{
+          height: 580px;
+        }
+        .i div h1{
+          color: whitesmoke;
+          text-align: center;
+        }
+        .i div {
+          position: absolute;
+          top: 50px;
+          width: 55%;
+          margin-left: 22.5%;
+          background-color: hwb(0 93% 7%);
+          border-radius: 5px;
+          height: 490px;
+          box-shadow: 0px 1px 1.8px rgba(0, 0, 0, 0.559);
+        }
+        .i div header{
+          background: rgb(49, 109, 161);
+          text-align: center;
+          padding: 0.05px 0;
+          border-radius: 5px 5px 0 0 ;
+        }
+        .i div form{
+          padding: 1em;
+          margin-left: 135px;
+          margin-top: 5px;
+          line-height: 18px;
+        }
+        .i div form label{
+          display: block;
+            margin-bottom: 0.5em;
+            font-size: 18px;
+            color: rgb(44, 57, 71);
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            
+        }
+        .i div form input,textarea {
+            width: 70%;
+            margin-bottom: 0.5em;
+            border:1px solid grey ;
+        }
+         .i div form  input[type="submit"] {
+          background: rgb(49, 109, 161);
+          color: white;
+          border: none;
+          padding: 0.5em 1em;
+          border-radius: 5px;
+         margin-top: 8px;
+      }
+
+         .i div form  input[type="submit"]:hover {
+          background: #128f76;
+      }
+        .z6{
+          background-color:  rgb(49, 109, 161);
+          width: 100%;
+          height: 300px;
+          position: absolute;
+          margin: -8px;
+          top: 655px;
+          color: whitesmoke;
+          font-size: 20px;
+          text-align: center;
+        }
+       
+        .z6 h1{
+          text-align: center;
+          color: whitesmoke;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .z6 p a{
+          text-decoration: none;
+          color: whitesmoke;
+        }
+        .z6 img{
+          width: 30px;
+        }
+
+        
